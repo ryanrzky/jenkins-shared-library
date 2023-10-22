@@ -1,3 +1,3 @@
-def call(Sting command) {
+def call(String command) {
     echo("Running ${command}")
 }
