@@ -1,3 +1,3 @@
-def call(String command) {
-    echo("Running ${command}")
+def call(String perintah) {
+    echo("Running ${perintah}")
 }
